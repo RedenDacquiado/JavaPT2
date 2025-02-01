@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SimpleCalculator{
+public class ArirhmeticCalculator{
     public static void main(String[] args) {
         Scanner imput = new Scanner(System.in);
         
@@ -19,4 +19,4 @@ public class SimpleCalculator{
         System.out.println("MULTIPICATION: " + number * number2);
         System.out.println("DIVISION: " + number / number2);
     }
-}
+} 
